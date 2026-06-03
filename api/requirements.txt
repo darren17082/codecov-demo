@@ -11,7 +11,7 @@ importlib_metadata==8.7.1
 iniconfig==2.1.0
 itsdangerous==2.2.0
 Jinja2==3.1.6
-macholib @ file:///AppleInternal/Library/BuildRoots/4~CNlKugBUuKM58FJFHeNR3wcmLXUyWlLa_MEj66k/Library/Caches/com.apple.xbs/TemporaryDirectory.BQzQ7o/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
+macholib==1.15.2
 MarkupSafe==3.0.3
 packaging==26.2
 platformdirs==4.4.0
@@ -20,7 +20,7 @@ Pygments==2.20.0
 pytest==8.4.2
 pytest-cov==7.1.0
 python-discovery==1.4.0
-six @ file:///AppleInternal/Library/BuildRoots/4~CNlKugBUuKM58FJFHeNR3wcmLXUyWlLa_MEj66k/Library/Caches/com.apple.xbs/TemporaryDirectory.BQzQ7o/Sources/python3/six-1.15.0-py2.py3-none-any.whl
+six==-1.15.0
 tomli==2.4.1
 typing_extensions==4.15.0
 virtualenv==21.4.2
